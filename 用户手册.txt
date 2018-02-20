@@ -1,0 +1,14 @@
+Linux数据库
+建数据库：yao_netdisk 
+建表：alluser，有username varchar(64) primary key not null、pwd varchar(64) not null两列
+
+若要编译Windows客户端代码
+需要下载图形库：EsayX
+http://www.easyx.cn/
+
+客户端使用方法
+进入界面后如何操作：首先鼠标左键单击选中文件，然后右击弹出菜单,进行对应操作即可
+注意：由于无滚动条，一层文件夹内所能创建和显示的文件数量有限（与预设窗口分辨率有关）
+
+功能
+一期功能、注册、登录、新建文件夹、显示下载进度、存储用户名和密码的数据库
